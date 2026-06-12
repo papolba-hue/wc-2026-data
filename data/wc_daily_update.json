@@ -1,7 +1,7 @@
 {
-  "version": "Daily update seed - 12 Jun 2026 IST - analysis added",
-  "lastUpdatedIst": "2026-06-12 15:55",
-  "notes": "Only edit this one file for daily match updates. Match ids are M001, M002 etc. Keep statusShort as FT for finished and NS for upcoming. Add analysisText for the Match Analysis screen.",
+  "version": "GoalRush 2026 live update - 12 Jun 2026 IST",
+  "lastUpdatedIst": "2026-06-12 16:30",
+  "notes": "GoalRush 2026 daily live update file. Edit this one file only. Use FT for finished matches and NS for upcoming matches. kickoffUtc must be UTC time.",
   "facebookProfile": "https://www.facebook.com/share/1HZimifSy7/",
   "results": [
     {
@@ -11,8 +11,18 @@
       "homeScore": 2,
       "awayScore": 0,
       "goalEvents": [
-        {"player": "Julián Quiñones", "team": "Mexico", "minute": 22, "note": "Forward"},
-        {"player": "Raúl Jiménez", "team": "Mexico", "minute": 67, "note": "Striker"}
+        {
+          "player": "Julián Quiñones",
+          "team": "Mexico",
+          "minute": 22,
+          "note": "Forward"
+        },
+        {
+          "player": "Raúl Jiménez",
+          "team": "Mexico",
+          "minute": 67,
+          "note": "Striker"
+        }
       ],
       "analysisText": "Mexico 2–0 South Africa\nবিশ্বকাপ ২০২৬ | উদ্বোধনী ম্যাচ\n\nবিশ্বকাপের শুরুটা হলো দুটি গোল আর তিনটি লাল কার্ডের নাটকীয়তা দিয়ে।\n\nপ্রথম ২০-২২ মিনিট South Africa-কে একেবারেই অসহায় লাগছিল। এটা সেই আত্মবিশ্বাসী South Africa নয়—ডিফেন্সে অগোছালো ভাব, মাঝমাঠে বল ধরে রাখার সমস্যা, আর Mexico-র দ্রুত প্রেসিংয়ে বারবার চাপে পড়ে যাচ্ছিল তারা।\n\nসেই দুর্বল ডিফেন্সের সুযোগ নিয়েই Julián Quiñones (Forward) Mexico-কে এগিয়ে দেন। গোল খাওয়ার পর South Africa প্রতিরোধ গড়ার চেষ্টা করলেও মাঝমাঠ পেরিয়ে আক্রমণে উঠতেই তাদের যথেষ্ট কষ্ট হচ্ছিল। খেলাটা তখন অনেকটাই একপেশে লাগছিল।\n\nদ্বিতীয়ার্ধের শুরুতেই South Africa আরও বড় ধাক্কা খায়। Sphephelo Sithole (Midfielder) লাল কার্ড দেখে মাঠ ছাড়েন। ১০ জনের South Africa-কে পেয়ে Mexico আক্রমণ আরও বাড়িয়ে দেয়।\n\nএরপর সেই চাপ থেকেই Raúl Jiménez (Striker) হেডে Mexico-র দ্বিতীয় গোলটি করেন। এই গোলের পর ম্যাচ প্রায় Mexico-র দখলেই চলে যায়।\n\nশেষ দিকে ম্যাচের উত্তাপ আরও বাড়ে। South Africa-র Themba Zwane (Forward) লাল কার্ড দেখেন, আর Mexico-র César Montes (Defender)-ও লাল কার্ড দেখে মাঠ ছাড়েন।\n\nFull Time: Mexico 2–0 South Africa\nGoal: Julián Quiñones (Forward)\nGoal: Raúl Jiménez (Striker)\nRed Card: Sphephelo Sithole (Midfielder)\nRed Card: Themba Zwane (Forward)\nRed Card: César Montes (Defender)\n\nসব মিলিয়ে, আয়োজক দেশ Mexico বিশ্বকাপ শুরু করল দাপুটে জয় দিয়ে। ২-০ গোলের এই জয়ে তারা বুঝিয়ে দিল — Mexico এবার শুধু আয়োজক নয়, দৌড়েও আছে।"
     },
@@ -23,11 +33,68 @@
       "homeScore": 2,
       "awayScore": 1,
       "goalEvents": [
-        {"player": "Ladislav Krejčí", "team": "Czechia", "minute": 59, "note": "Defender"},
-        {"player": "Hwang In-beom", "team": "South Korea", "minute": 67, "note": "Midfielder"},
-        {"player": "Oh Hyeon-gyu", "team": "South Korea", "minute": 80, "note": "Forward / Substitute"}
+        {
+          "player": "Ladislav Krejčí",
+          "team": "Czechia",
+          "minute": 59,
+          "note": "Defender"
+        },
+        {
+          "player": "Hwang In-beom",
+          "team": "South Korea",
+          "minute": 67,
+          "note": "Midfielder"
+        },
+        {
+          "player": "Oh Hyeon-gyu",
+          "team": "South Korea",
+          "minute": 80,
+          "note": "Forward / Substitute"
+        }
       ],
       "analysisText": "South Korea 2–1 Czechia\nবিশ্বকাপ ২০২৬ | গ্রুপ A\n\nSon Heung-min-এর Korea এদিন শুরু করল প্রপার স্ট্রাইকার ছাড়াই। আক্রমণের মূল অস্ত্র ছিল লং বল—বারবার সরাসরি সামনে বল পাঠিয়ে Czechia-র ডিফেন্সকে চাপে রাখার চেষ্টা।\n\nSon-কে দেখা গেল False 9 পজিশনে, যেখানে তাকে সাধারণত খুব বেশি খেলতে দেখা যায় না। ফলে Korea-র আক্রমণে গতি থাকলেও বক্সের ভিতরে ফিনিশিংয়ের অভাব চোখে পড়ছিল।\n\nপ্রথমার্ধের শেষ দিকে ধীরে ধীরে ম্যাচে ফিরতে শুরু করে Czechia। মাঝমাঠে বল দখল বাড়িয়ে তারা Korea-র প্রেসিং সামলাতে থাকে।\n\nদ্বিতীয়ার্ধে ম্যাচ জমে ওঠে। ৫৯ মিনিটে Czechia-র ডিফেন্ডার Ladislav Krejčí লং থ্রো-ইন থেকে দুর্দান্ত হেডে গোল করে দলকে এগিয়ে দেন।\n\nগোল খাওয়ার পর South Korea চাপ বাড়ায়। ৬৭ মিনিটে Hwang In-beom ঠান্ডা মাথায় বক্সের মধ্যে থেকে ফিনিশ করে ম্যাচে সমতা ফেরান।\n\nচেকিয়ার একটা ফ্রি কিক আক্রমণ গোলে পরিণত হলেও অফসাইডে বাতিল হয়ে যায়।\n\nএরপর Korea-র আক্রমণ আরও ধারালো হয়। ৮০ মিনিটে বদলি হিসেবে নামা Oh Hyeon-gyu নিচু ক্রস থেকে গোল করে South Korea-কে ২-১ লিড এনে দেন।\n\nশেষ দিকে Czechia সমতায় ফেরার চেষ্টা করলেও Kim Seung-gyu গুরুত্বপূর্ণ সেভ করে Korea-র জয় ধরে রাখেন।\n\nPoster Event Panel\nLadislav Krejčí — Czechia, Defender — 59’\nHwang In-beom — South Korea, Midfielder — 67’\nOh Hyeon-gyu — South Korea, Forward / Substitute — 80’\nKim Seung-gyu — South Korea, Goalkeeper — late save\n\nকোরিয়ার খেলা দেখে মনে হলো আমরা বিশ্ব ফুটবলের কোনো দানব দেশেরই খেলা দেখছি, আমরা এইভাবে আমাদের দেশ কে কবে দেখবো?"
+    },
+    {
+      "id": "M003",
+      "homeTeam": "Canada",
+      "awayTeam": "Bosnia & Herzegovina",
+      "kickoffUtc": "2026-06-13T16:00:00Z",
+      "venue": "Stadium TBD",
+      "city": "City TBD",
+      "round": "Group Stage - Matchday 1",
+      "group": "Group A",
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "goalEvents": [],
+      "analysisText": ""
+    },
+    {
+      "id": "M004",
+      "homeTeam": "United States",
+      "awayTeam": "Paraguay",
+      "kickoffUtc": "2026-06-14T00:30:00Z",
+      "venue": "Stadium TBD",
+      "city": "City TBD",
+      "round": "Group Stage - Matchday 1",
+      "group": "Group B",
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "goalEvents": [],
+      "analysisText": ""
+    },
+    {
+      "id": "M005",
+      "homeTeam": "Qatar",
+      "awayTeam": "Switzerland",
+      "kickoffUtc": "2026-06-14T16:00:00Z",
+      "venue": "Stadium TBD",
+      "city": "City TBD",
+      "round": "Group Stage - Matchday 1",
+      "group": "Group C",
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "goalEvents": [],
+      "analysisText": ""
     }
   ]
 }
