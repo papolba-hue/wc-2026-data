@@ -1,6 +1,6 @@
 {
-  "version": "GoalRush 2026 live update - 12 Jun 2026 IST",
-  "lastUpdatedIst": "2026-06-12 16:30",
+  "version": "GoalRush 2026 live update - 13 Jun 2026 IST - Canada vs Bosnia added",
+  "lastUpdatedIst": "2026-06-13 23:30",
   "notes": "GoalRush 2026 daily live update file. Edit this one file only. Use FT for finished matches and NS for upcoming matches. kickoffUtc must be UTC time.",
   "facebookProfile": "https://www.facebook.com/share/1HZimifSy7/",
   "results": [
@@ -62,11 +62,26 @@
       "venue": "Stadium TBD",
       "city": "City TBD",
       "round": "Group Stage - Matchday 1",
-      "group": "Group A",
-      "statusShort": "NS",
-      "statusLong": "Not Started",
-      "goalEvents": [],
-      "analysisText": ""
+      "group": "Group B",
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "goalEvents": [
+        {
+          "player": "Jovo Lukić",
+          "team": "Bosnia & Herzegovina",
+          "minute": 21,
+          "note": "Goal"
+        },
+        {
+          "player": "Cyle Larin",
+          "team": "Canada",
+          "minute": 78,
+          "note": "Goal"
+        }
+      ],
+      "analysisText": "🇨🇦 Canada 1–1 Bosnia & Herzegovina 🇧🇦\nবিশ্বকাপ ২০২৬ | Group B | Full Time\n\nঘরের মাঠে ম্যাচের শুরুটা Canada-র হলেও, প্রথম ধাক্কাটা দেয় Bosnia। সেট-পিস থেকে ২১ মিনিটে Jovo Lukić গোল করে Bosnia & Herzegovina-কে এগিয়ে দেন। Canada বল দখল রাখলেও final third-এ ধার কম ছিল, আর Bosnia compact football খেলে লিড ধরে রাখে।\n\nদ্বিতীয়ার্ধে Canada আরও আক্রমণাত্মক হয়ে ওঠে। দর্শকদের চাপ, বারবার wide attack, আর শেষ পর্যন্ত বদলি হিসেবে নামা Cyle Larin-এর উপস্থিতিই ম্যাচের মোড় ঘুরিয়ে দেয়। ৭৮ মিনিটে Larin-এর গোলেই Canada সমতায় ফেরে।\n\nBosnia লড়াই করেছে দারুণভাবে, কিন্তু Canada শেষ পর্যন্ত হাল ছাড়েনি। জয় না এলেও ঘরের মাঠে এই comeback draw তাদের জন্য বড় আত্মবিশ্বাসের জায়গা।\n\n📌 Full Time: Canada 1–1 Bosnia & Herzegovina\n⚽ Jovo Lukić — 21’\n⚽ Cyle Larin — 78’\n\n🔥 সেট-পিসে পিছিয়ে পড়েও লড়াই থামায়নি Canada। শেষদিকে Larin-এর গোলে ১-১ সমতা—জয় নয়, কিন্তু সাহসী comeback point!"
     },
     {
       "id": "M004",
